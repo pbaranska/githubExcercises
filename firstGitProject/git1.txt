@@ -1,0 +1,2 @@
+Crystal Reports in not available for Express version. It is used to design and generate reports from a wide range of data
+source. Is only available on Visual Studio Professional, Ultimate and Premium.
