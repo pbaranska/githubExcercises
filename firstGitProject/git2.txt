@@ -1,0 +1,2 @@
+Report Viewer includes controls for viewing reports designed using Microsoft reporting technology. It not supported
+Windows 8 and Windows 8.1. Needed Visual Web Developer Express.
